@@ -32,14 +32,14 @@
     [
         "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default",
             "isDirectory": true,
-            "size": 204,
-            "modifiedTime": 1511278976000,
-            "changeTime": 1511278976000,
-            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 272,
+            "modifiedTime": 1511340231000,
+            "changeTime": 1511340231000,
+            "contentHash": "640ef507a956ccc8503a42e09af31ed8d3db7cd9"
         }
     ],
     [
@@ -140,53 +140,53 @@
     [
         "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4314,
             "modifiedTime": 1511280590000,
             "changeTime": 1511280590000,
-            "contentHash": "94029d7bf2ab5a28d8e288e4cc3eef337b9bbb18"
+            "contentHash": "94029d7bf2ab5a28d8e288e4cc3eef337b9bbb18",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4310,
             "modifiedTime": 1511280590000,
             "changeTime": 1511280590000,
-            "contentHash": "8223039c44fb577fceaebdc468ed9ee976ca15d6"
+            "contentHash": "8223039c44fb577fceaebdc468ed9ee976ca15d6",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4650,
             "modifiedTime": 1511280590000,
             "changeTime": 1511280590000,
-            "contentHash": "d47d25ae458159a4c0c393a7472b47f556172e9c"
+            "contentHash": "d47d25ae458159a4c0c393a7472b47f556172e9c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17329,
             "modifiedTime": 1511280590000,
             "changeTime": 1511280590000,
-            "contentHash": "382e89a2f9d6fac2885fc2afb278b6123b78ec0d"
+            "contentHash": "382e89a2f9d6fac2885fc2afb278b6123b78ec0d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -218,27 +218,27 @@
     [
         "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1511280590000,
             "changeTime": 1511280590000,
-            "contentHash": "6f44c9502fa4917481db31eeccd2dc03e4ae6c11"
+            "contentHash": "6f44c9502fa4917481db31eeccd2dc03e4ae6c11",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1511280590000,
             "changeTime": 1511280590000,
-            "contentHash": "0336bf064647b03421ee1928504f7e212de2313d"
+            "contentHash": "0336bf064647b03421ee1928504f7e212de2313d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -257,40 +257,79 @@
     [
         "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/objects/tickets__c/tickets__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/objects/tickets__c/tickets__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2133,
             "modifiedTime": 1511280590000,
             "changeTime": 1511280590000,
-            "contentHash": "f33a851ee80821b4ea9d8ddebb74dcc545517e38"
+            "contentHash": "f33a851ee80821b4ea9d8ddebb74dcc545517e38",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/layouts/tickets__c-ticket Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/layouts/tickets__c-ticket Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1947,
             "modifiedTime": 1511280590000,
             "changeTime": 1511280590000,
-            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/objects/tickets__c",
         {
-            "state": "u",
             "sourcePath": "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/objects/tickets__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1511280590000,
             "changeTime": 1511280590000,
-            "contentHash": "9aa19aa040ba482bf5795dd332c729e9086a1b54"
+            "contentHash": "9aa19aa040ba482bf5795dd332c729e9086a1b54",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/classes/MyClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/classes/MyClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511340231000,
+            "changeTime": 1511340231000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/classes/MyClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/classes/MyClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1511340231000,
+            "changeTime": 1511340231000,
+            "contentHash": "9c50b57f6a82e8a5c9f03a68efa842289eee47fc"
+        }
+    ],
+    [
+        "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jvisse/Repositories/jvisse_project/myfirstproject/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1511340231000,
+            "changeTime": 1511340231000,
+            "contentHash": "f4283b2a9386895eac312ee8797dfffaa0092535"
         }
     ]
 ]
