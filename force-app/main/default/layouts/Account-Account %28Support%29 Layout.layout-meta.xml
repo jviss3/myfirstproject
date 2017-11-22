@@ -45,6 +45,10 @@
                 <behavior>Edit</behavior>
                 <field>record_number__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>Nummer__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
